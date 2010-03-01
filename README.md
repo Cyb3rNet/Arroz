@@ -1,4 +1,4 @@
->> Arroz by Cyb3r
+>> Arroz by Serafim Junior Dos Santos Cyb3r Net
 >>
 >> PHP 5 Highrise API Librairy
 >>
