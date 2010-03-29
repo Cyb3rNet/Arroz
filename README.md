@@ -1,4 +1,4 @@
->> Arroz by Serafim Junior Dos Santos Cyb3r Network
+>> Arroz by Serafim Junior Dos Santos Fagundes Cyb3r Network
 >>
 >> A PHP 5 API Library Wrapper for 37Signals's Highrise Web Application and API Services
 >>
