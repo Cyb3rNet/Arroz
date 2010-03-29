@@ -1,13 +1,13 @@
->> Arroz by Serafim Junior Dos Santos Cyb3r Net
+>> Arroz by Serafim Junior Dos Santos Cyb3r Network
 >>
->> PHP 5 Highrise API Librairy
+>> A PHP 5 API Library Wrapper for 37Signals's Highrise Web Application and API Services
 >>
->> Version 0.1
+>> Version 0.1.1
 >>
 >> MIT Licence
 >>
 >> Uses 37signals's Highrise API
->> Uses CURL librairy
+>> Uses CURL library
 
 This is a reorganised code from a previous project that I had implemented to ease data transfer from a Web site to my Highrise account.
 
